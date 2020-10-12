@@ -13,5 +13,9 @@ namespace ComicBookGallery.Controllers
         {
             return View();
         }
+        public ActionResult detail()
+        {
+            return View();
+        }
     }
 }
